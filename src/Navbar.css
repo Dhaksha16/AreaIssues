@@ -1,0 +1,13 @@
+.logo{
+  font-size:28px;
+  font-weight:bold;
+}
+
+.nav-links a{
+  font-size:17px;
+  transition:0.3s;
+}
+
+.nav-links a:hover{
+  color:#00bfff;
+}
